@@ -1,0 +1,8 @@
+openai>=1.51.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
+pandas>=2.2.2
+markdown>=3.6
+streamlit>=1.38.0
+python-dotenv>=1.0.1
