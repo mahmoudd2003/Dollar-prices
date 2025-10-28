@@ -1,0 +1,24 @@
+{
+  "model": "gpt-5",
+
+  "countries": ["jordan", "egypt", "iraq", "lebanon", "syria"],
+
+  "wordpress": {
+    "url": "https://YOUR-WEBSITE.com/wp-json/wp/v2/posts",
+    "user": "YOUR_WP_USERNAME",
+    "app_password": "XXXX-XXXX-XXXX-XXXX",
+    "publish_status": "draft",
+    "categories": {
+      "jordan": 12,
+      "egypt": 13,
+      "iraq": 15,
+      "lebanon": 17,
+      "syria": 18
+    }
+  },
+
+  "content": {
+    "min_words": 140,
+    "max_words": 220
+  }
+}
